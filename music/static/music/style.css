@@ -1,0 +1,16 @@
+/* body{
+  background: white url("images/pink.jpg");
+} */
+
+body {
+  background: url("images/pink.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Gloria+Hallelujah|Indie+Flower|Shrikhand');
+.shrikhand{
+  font-family: 'Shrikhand', cursive ;
+}
